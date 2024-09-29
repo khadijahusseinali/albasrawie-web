@@ -370,13 +370,16 @@ body {
 
 /* ============================= */
 .footer {
-  background-color: #f8f9fa;
+  background-color: #213e60;
   padding: 40px 0;
 }
 
 .footer a {
   text-decoration: none;
-  color: #333;
+  color: #ffffff;
+}
+.footer h6 , .footer p , .footer h6 a{
+  color: #d1f6fc;
 }
 
 .footer a:hover {
@@ -389,7 +392,7 @@ body {
 
 .social-icons a {
   margin: 0 10px;
-  color: #333;
+  color: #ffffff;
 }
 
 .divider {
